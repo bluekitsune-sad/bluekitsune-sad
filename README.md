@@ -16,18 +16,7 @@ I have expertise in Web-development, Android-development, Java programming, data
                   src="https://img.shields.io/twitter/follow/@sad_yosuf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
 <p align="left">
-  Core:
-ICON ICON ICON ICON ICON
-  Frontend
-ICON ICON ICON ICON ICON ICON ICON 
-  Backend and Database
-ICON ICON ICON ICON ICON ICON 
-  Other
-ICON ICON ICON ICON
-  Software
-ICON ICON
-  Cloud
-ICON 
+  ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
                                 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
                                 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://www.jetbrains.com/company/brand/img/logo1.svg" width="36" height="36" alt="Google Cloud" /></a>
                     </p>
