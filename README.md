@@ -13,6 +13,8 @@ I have expertise in Web-development, Android-development, Java programming, data
 *   🧠  I'm learning how to live
 *   🤝  I'm open to collaborating on web applicaion based on react and android applications
 *   ⚡  @-@
+
+
 <a href="https://www.x.com/@sad_yosuf" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/@sad_yosuf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
