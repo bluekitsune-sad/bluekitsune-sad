@@ -24,9 +24,6 @@ I have expertise in Web-development, Android-development, Java programming, data
   <h4>Core</h4>
   <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="36" height="36"></a>
   <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="36" height="36"></a>
-  <a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Css" width="36" height="36"></a>
-  <a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width="36" height="36"></a>
-  <a href="https://www.w3.org/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="SCSS" width="36" height="36"></a>
   <a href="https://www.java.com/en/"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="36" height="36"></a>
   <a href="https://kotlinlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="36" height="36"></a>
   <a href="https://www.python.org/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="36" height="36"></a>
@@ -38,6 +35,9 @@ I have expertise in Web-development, Android-development, Java programming, data
   <a href="https://html.spec.whatwg.org/multipage/introduction.html#is-this-html5?"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="36" height="36"></a>
   <a href="https://react.dev/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="36" height="36"></a>
   <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="36" height="36"></a>
+  <a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Css" width="36" height="36"></a>
+  <a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width="36" height="36"></a>
+  <a href="https://www.w3.org/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="SCSS" width="36" height="36"></a>
   <a href="https://jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jQuery" width="36" height="36"></a>
   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="36" height="36"></a>
   <a href="https://mui.com/"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="36" height="36"></a>
