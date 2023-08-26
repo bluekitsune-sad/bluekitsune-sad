@@ -24,12 +24,15 @@ I have expertise in Web-development, Android-development, Java programming, data
   <h4>Core</h4>
   <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="36" height="36"></a>
   <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="36" height="36"></a>
-  <a href="https://www.w3.org/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Css" width="36" height="36"></a>
+  <a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Css" width="36" height="36"></a>
+  <a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width="36" height="36"></a>
+  <a href="https://www.w3.org/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="SCSS" width="36" height="36"></a>
   <a href="https://www.java.com/en/"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="36" height="36"></a>
   <a href="https://kotlinlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="36" height="36"></a>
   <a href="https://www.python.org/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="36" height="36"></a>
   <a href="https://www.lua.org/"><img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="lua" width="36" height="36"></a>
   <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="36" height="36"></a>
+  <a href="https://threejs.org/"><img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="Three.js" width="36" height="36"></a>
 
   <h4>FrontEnd</h4>
   <a href="https://html.spec.whatwg.org/multipage/introduction.html#is-this-html5?"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="36" height="36"></a>
@@ -46,6 +49,7 @@ I have expertise in Web-development, Android-development, Java programming, data
   <a href="https://www.oracle.com/"><img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" width="36" height="36"></a>
   <a href="https://www.mongodb.com/"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="36" height="36"></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL" width="36" height="36"></a>
+  <a href="https://www.sqlite.org/index.html"><img src="https://cdn.worldvectorlogo.com/logos/sqlite-1.svg" alt="MySQLite" width="36" height="36"></a>
   <a href="https://firebase.google.com/"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="36" height="36"></a>
   <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="36" height="36"></a>
 
@@ -84,3 +88,10 @@ I have expertise in Web-development, Android-development, Java programming, data
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/bluekitsune-sad"><img src="https://github-readme-stats.vercel.app/api?username=bluekitsune-sad&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bluekitsune-sad's GitHub stats" /></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bluekitsune-sad&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=bluekitsune-sad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
