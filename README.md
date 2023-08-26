@@ -15,9 +15,9 @@ I have expertise in Web-development, Android-development, Java programming, data
 *   ⚡  @-@
 
 
-<a href="https://www.x.com/@sad_yosuf" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/@sad_yosuf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+<a href="https://www.x.com/@sad_yosuf" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/@sad_yosuf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243)
 
 ### Skills 
 <p align="left">
@@ -72,8 +72,8 @@ I have expertise in Web-development, Android-development, Java programming, data
                   
 <p align="left"> 
 <a href="https://www.github.com/bluekitsune-sad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-  <a href="https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="36" height="36""></a>
-</a>
+<!--   <a href="https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="36" height="36""></a>
+</a> -->
 <a href="https://www.x.com/@sad_yosuf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> 
 </a>
 </p>
