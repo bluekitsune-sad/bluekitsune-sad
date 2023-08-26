@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Full Stack in web and android development
 ------------------------------------------------
 
-I have expertise in Web-development, Android-development, Java programming, data structures and algorithms, object-oriented programming, C, Kotlin, and C++ coding ᵕ̈
+I have expertise in Web-development, Android-development, Java programming, data structures and algorithms, object-oriented programming,etc.ᵕ̈
 
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [comingsoon](http://comingsoon)
