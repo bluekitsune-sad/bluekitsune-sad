@@ -29,6 +29,7 @@ I have expertise in Web-development, Android-development, Java programming, data
   <a href="https://kotlinlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="36" height="36"></a>
   <a href="https://www.python.org/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="36" height="36"></a>
   <a href="https://www.lua.org/"><img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="lua" width="36" height="36"></a>
+  <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="36" height="36"></a>
 
   <h4>FrontEnd</h4>
   <a href="https://html.spec.whatwg.org/multipage/introduction.html#is-this-html5?"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="36" height="36"></a>
