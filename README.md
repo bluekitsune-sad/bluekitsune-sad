@@ -90,7 +90,9 @@ I have expertise in Web-development, Android-development, Java programming, data
 
 <a href="http://www.github.com/bluekitsune-sad"><img src="https://github-readme-stats.vercel.app/api?username=bluekitsune-sad&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bluekitsune-sad's GitHub stats" /></a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bluekitsune-sad&theme=midnight-purple&hide_border=false)<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bluekitsune-sad&theme=chartreuse-dark&hide_border=true&background=2B0202)](https://git.io/streak-stats)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=bluekitsune-sad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
