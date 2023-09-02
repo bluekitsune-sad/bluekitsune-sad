@@ -98,7 +98,3 @@ I have expertise in Web-development, Android-development, Java programming, data
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Snakesss:
-
-![snake gif](https://github.com/bluekitsune-sad/bluekitsune-sad/blob/output/github-contribution-grid-snake.gif)
