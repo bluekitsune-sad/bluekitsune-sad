@@ -28,7 +28,7 @@ I have expertise in Web-development, Android-development, Java programming, data
 <!--/media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif-->
 <!--🐱CAT-->
 <p align="center">
-<video src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/catcode.mp4" width="100"/>
+<video src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/catCode.gif" width="100"/>
 
 
 <h2> 🤹🏻‍♀️ Skills</h2> 
