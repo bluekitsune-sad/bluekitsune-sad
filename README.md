@@ -25,12 +25,6 @@ I have expertise in Web-development, Android-development, Java programming, data
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243)
 
-<!--/media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif-->
-<!--🐱CAT-->
-<p align="center">
-<video src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/catCode.gif" width="100"/>
-
-
 <h2> 🤹🏻‍♀️ Skills</h2> 
 <details>
   <summary>see Skills</summary>
@@ -129,6 +123,8 @@ I have expertise in Web-development, Android-development, Java programming, data
   
 </details>
 
-
+<!--/media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif-->
+<!--🐱CAT-->
+<div align="center" ><img alt="Meow~" width="200px" height="200px" src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/catCode.gif"></div>
 
 <p align="right"><a href="#tap"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=10EAF7&style=flat&logo" alt="back to top" /></a></p>
