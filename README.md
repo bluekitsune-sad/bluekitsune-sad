@@ -113,4 +113,17 @@ I have expertise in Web-development, Android-development, Java programming, data
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote not for you"/>
 </details>
 
+<h2> 🐍 Snakesss:</h2> 
+<details>
+  <summary>see The commits being eaten</summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bluekitsune-sad/Commit-Snake/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bluekitsune-sad/Commit-Snake/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bluekitsune-sad/Commit-Snake/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</details>
+
+
+
 <p align="right"><a href="#tap"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=10EAF7&style=flat&logo" alt="back to top" /></a></p>
