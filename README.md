@@ -104,6 +104,8 @@ I have expertise in Web-development, Android-development, Java programming, data
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
 </details>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h2> ✍️ Random Dev Quote</h2> 
+<details>
+  <summary>see Quote</summary>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote not for you"/>
+</details>
