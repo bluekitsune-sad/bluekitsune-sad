@@ -25,9 +25,11 @@ I have expertise in Web-development, Android-development, Java programming, data
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243)
 
+<!--/media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif-->
 <!--🐱CAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<video src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/catcode.mp4" width="100"/>
+
 
 <h2> 🤹🏻‍♀️ Skills</h2> 
 <details>
