@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syed Saad Yousuf Raza
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-I am a Full Stack in web and android development
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat+&weight=500&size=21&pause=1000&color=10EAF7&width=435&lines=I'm+Syed+Saad+Yousuf+Raza;I+am+a+frontend+and+backend+developer;I+am+a+web+and+android+developer;I+am+from+Pakistan" alt="Typing SVG" /></a>
+
 ------------------------------------------------
 
 I have expertise in Web-development, Android-development, Java programming, data structures and algorithms, object-oriented programming,etc.ᵕ̈
