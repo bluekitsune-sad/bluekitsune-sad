@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1AF2F7&background=13131300&width=435&lines=Saad;%D8%B3%D8%B9%D8%AF;%E3%82%B5%E3%83%BC%E3%83%89;%EC%82%AC%EB%93%9C;%E8%90%A8%E9%98%BF%E5%BE%B7;%D0%A1%D0%B0%D0%B0%D0%B4)](https://git.io/typing-svg)
 </p>
-===================================================================================================================================
+============================================================================================
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat+&weight=500&size=21&pause=1000&color=10EAF7&width=435&lines=I'm+Syed+Saad+Yousuf+Raza;I+am+a+frontend+and+backend+developer;I+am+a+web+and+android+developer;I+am+from+Pakistan" alt="Typing SVG" /></a>
 
