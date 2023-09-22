@@ -6,9 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&duration=1000&pause=500&color=1AF2F7&center=true&vCenter=true&width=70&height=35&lines=Saad;%D8%B3%D8%B9%D8%AF;%E3%82%B5%E3%83%BC%E3%83%89;%EC%82%AC%EB%93%9C;%E8%90%A8%E9%98%BF%E5%BE%B7;%E0%B0%B8%E0%B0%BE%E0%B0%A6%E0%B1%8D)](https://git.io/typing-svg)
 </p>
 ============================================================================================
-
+<!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=500&size=21&pause=1000&color=10EAF7&width=435&lines=I'm+Syed+Saad+Yousuf+Raza;I+am+a+frontend+and+backend+developer;I+am+a+web+and+android+developer;I+am+from+Pakistan" alt="Typing SVG" /></a>
+-->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Syed+Saad+Yousuf+Raza;I+am+a+frontend+and+backend+developer;I+am+a+web+and+android+developer;I+am+from+Pakistan)](https://git.io/typing-svg)
 ------------------------------------------------
 
 I have expertise in Web-development, Android-development, Java programming, data structures and algorithms, object-oriented programming,etc.ᵕ̈
