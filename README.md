@@ -3,7 +3,7 @@
   
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&duration=1&pause=999&color=1AF2F7&center=true&vCenter=true&width=70&height=35&lines=Saad;%D8%B3%D8%B9%D8%AF;%E3%82%B5%E3%83%BC%E3%83%89;%EC%82%AC%EB%93%9C;%E8%90%A8%E9%98%BF%E5%BE%B7;%E0%B0%B8%E0%B0%BE%E0%B0%A6%E0%B1%8D)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&duration=1000&pause=500&color=1AF2F7&center=true&vCenter=true&width=70&height=35&lines=Saad;%D8%B3%D8%B9%D8%AF;%E3%82%B5%E3%83%BC%E3%83%89;%EC%82%AC%EB%93%9C;%E8%90%A8%E9%98%BF%E5%BE%B7;%E0%B0%B8%E0%B0%BE%E0%B0%A6%E0%B1%8D)](https://git.io/typing-svg)
 </p>
 ============================================================================================
 
