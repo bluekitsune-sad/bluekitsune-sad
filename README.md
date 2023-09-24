@@ -77,6 +77,7 @@ I have expertise in Web-development, Android-development, Java programming, data
     <a href="https://developer.android.com/"><img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Studio" width="36" height="36""></a>
     <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Code" width="36" height="36""></a>
     <a href="https://www.microsoft.com"><img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Microsoft office" width="36" height="36""></a>
+    <a href="https://unity.com/"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" alt="Unity" width="36" height="36""></a>
     <h4>Cloud</h4>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://www.jetbrains.com/company/brand/img/logo1.svg" width="36" height="36" alt="Jetbrains" /></a>
