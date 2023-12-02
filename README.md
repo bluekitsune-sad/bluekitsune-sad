@@ -32,7 +32,7 @@ I have expertise in Web-development, Android-development, Java programming, data
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243)
 
-<h2> 🤹🏻‍♀️ Skills</h2> 
+<h2> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/CP_PS.gif" width=15% /> Skills</h2> 
 <details>
   <summary>see Skills</summary>
   <p align="left">
