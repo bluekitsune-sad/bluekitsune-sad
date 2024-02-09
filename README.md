@@ -135,4 +135,5 @@ I have expertise in Web-development, Android-development, Java programming, data
 <!--🐱CAT-->
 <div align="center" ><img alt="Meow~" width="200px" height="200px" src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/catCode.gif"></div>
 
-<p align="right"><a href="#tap"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=10EAF7&style=flat&logo" alt="back to top" /></a></p>
+<!--<p align="right"><a href="#tap"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=10EAF7&style=flat&logo" alt="back to top" /></a></p>-->
+<p align="right"><a href="#tap"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=09092a&style=flat&logo" alt="back to top" /></a></p>
