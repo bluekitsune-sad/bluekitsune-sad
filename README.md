@@ -107,7 +107,7 @@ I have expertise in Web-development, Android-development, Java programming, data
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=bluekitsune-sad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>:zany_face: Joke of the day</h2>
+<h2>😅 Joke of the day</h2>
 <details>
     <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
