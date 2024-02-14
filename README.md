@@ -73,7 +73,7 @@ I have expertise in Web-development, Android-development, Java programming, data
     <a href="https://www.raspberrypi.org/"><img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="36" height="36"></a>
     <h4>Software</h4>
     <a href="https://www.adobe.com/"><img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="Photoshop" width="36" height="36"></a>
-    <a href="https://www.adobe.com/"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="After Effects" width="36" height="36"></a>
+    <a href="https://www.adobe.com/"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" alt="After Effects" width="36" height="36"></a>
     <a href="https://www.jetbrains.com/idea/"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="36" height="36""></a>
     <a href="https://developer.android.com/"><img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Studio" width="36" height="36""></a>
     <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Code" width="36" height="36""></a>
