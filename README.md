@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Syed+Saad+Yousuf+Raza;I+am+a+frontend+and+backend+developer;I+am+a+web+and+android+developer;I+am+from+Pakistan)](https://git.io/typing-svg)
 -----
 
-I have expertise in Web-development, Android-development, Java programming, data structures and algorithms, object-oriented programming,etc.ᵕ̈
+Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | React.js, Node.js, Kotlin, Java, Python, ML & AI. ᵕ̈
 
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [comingsoon](http://comingsoon)
