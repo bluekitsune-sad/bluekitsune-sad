@@ -61,7 +61,7 @@ Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity
     <a href="https://graphql.org/"><img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL" width="36" height="36"></a>
     <a href="https://www.oracle.com/"><img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" width="36" height="36"></a>
     <a href="https://www.mongodb.com/"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="36" height="36"></a>
-    <a href="https://www.mysql.com/"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL" width="36" height="36"></a>
+    <a href="https://www.mysql.com/"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="36" height="36"></a>
     <a href="https://www.sqlite.org/index.html"><img src="https://cdn.worldvectorlogo.com/logos/sqlite-1.svg" alt="MySQLite" width="36" height="36"></a>
     <a href="https://firebase.google.com/"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="36" height="36"></a>
     <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="36" height="36"></a>
@@ -81,7 +81,7 @@ Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity
     <a href="https://unity.com/"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" alt="Unity" width="36" height="36""></a>
     <h4>Cloud</h4>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://www.jetbrains.com/company/brand/img/logo1.svg" width="36" height="36" alt="Jetbrains" /></a>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" width="36" height="36" alt="Jetbrains" /></a>
                       </p>
 </details>
                     
