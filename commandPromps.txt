@@ -1,0 +1,160 @@
+----------------------------------------
+React Setup
+----------------------------------------
+npm install -g create-react-app   # "-g" installs globally
+npx create-react-app myapp        # Use lowercase for app name
+# OR
+npm init         # Manual initialization
+npm init -y      # Automatic (default) initialization
+
+example: npx create-react-app [your-applicaition-name];
+
+this can also be done by 'npm init' / 'npn init -y'
+node {file-name};
+-----------------------------------------
+npm install -g yarn       # OR: npm i -g yarn
+yarn create react-app myapp
+cd myapp
+yarn start                # Starts development server
+-----------------------------------------
+npm run build             # Builds a compact production version
+
+-----------------------------------------
+components should be in captital(first char)
+-----------------------------------------
+React Conventions & Routing
+npm install react-router-dom@5.2.0       # Specific version
+npm i -D react-router-dom@latest         # Latest version as dev dependency
+
+--------------------------------------------
+UseFul packages
+npm i axios
+yarn add bootstrap
+yarn add @mui/icons-material
+yarn add react-helmet-async
+npm i react-helmet-async
+
+—-------------------------------------
+np install -g server
+server -s run
+----------------------------------------
+Particle Background
+npm install tsparticles-engine
+npm i react-tsparticles
+# Resources:
+# https://vincentgarreau.com/particles.js/#default
+# https://www.npmjs.com/package/react-tsparticles
+
+
+—-------------------------------------
+echo "# YouTubeCloNe" >> README.md
+git init
+git add .
+git commit -m "bug fixs"
+git branch -M main
+git remote add origin https://github.com/SaadAli909/Gents-MVP.git
+git push -u origin main -f
+	------
+git remote add origin https://github.com/bluekitsune-sad/YouTubeCloNe.git
+git branch -M main
+git push -u origin main
+	-------
+//UNSET
+git config --global --unset user.name
+git config --global --unset  user.email
+
+//CHECK LSIT
+git config --global --list
+
+//SET
+git config --global user.email "MY_NAME@example.com"
+git config --global user.name "MY_NAME"
+-------------------------------------
+Firebase Hosting
+
+//in the root directory of youtube project
+npm install -g firebase-tools
+//first login
+
+firebase init
+select the 3rd option(Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys)
+
+firebase deploy
+firebase logout
+—---------------------------------
+Nextjs
+npx create-next-app@latest my-next-app
+cd my-next-app
+npm run dev
+
+yarn create next-app
+cd my-next-app
+yarn dev
+
+
+—---------------------------------
+Nestjs
+npm i -g @nestjs/cli
+nest new my-nest-app
+cd my-nest-app
+npm run start
+
+
+—--------------------------------
+React native
+npm install -g expo-cli          # OR: npx i -g expo
+npx expo init my-expo-project
+npx expo install react-dom react-native-web @expo/webpack-config
+npx expo start
+
+
+—--------------------------------
+docker commands:
+
+# -t stands for give your container a name/tag
+# . is the path to the Dockerfile
+docker build -t sample_name .
+
+# -p stands for port forwarting
+# sample_name should be the same
+docker run -p 9000:9000 sample_name
+
+# for vulnerability check run this command or check in the gui
+docker scout quickview
+
+docker compose up
+
+docker compose down
+—--------------------------------
+
+yarn add bootstrap
+https://mui.com/material-ui/migration/migration-v4/
+yarn upgrade @material-ui/core@^4.11.2 react@^17.0.0
+yarn add @mui/icons-material
+https://vincentgarreau.com/particles.js/#default
+https://github.com/Wufe/react-particles-js
+npm install tsparticles-engine
+npm i react-tsparticles
+https://www.npmjs.com/package/react-tsparticles
+yarn add react-helmet-async
+npm i react-helmet-async
+"https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+W
+
+
+npm i axios
+
+See expo.dev
+
+Npx i -g expo
+npx expo install react-dom react-native-web @expo/webpack-config
+Npx expo start
+Npm react-native-paper
+tensoeflow
+
+
+
+https://www.myairbridge.com/en/#!/
+
+/////////////////////Readme/////////////////
+https://www.youtube.com/watch?v=MZT37vCQ-4Y&t=337s
