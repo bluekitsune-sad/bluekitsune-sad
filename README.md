@@ -82,6 +82,7 @@ Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity
     <h4>Cloud</h4>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" width="36" height="36" alt="Jetbrains" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="36" height="36" alt="Docker" /></a>
                       </p>
 </details>
                     
