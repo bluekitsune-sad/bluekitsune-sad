@@ -111,6 +111,8 @@ npx expo start
 —--------------------------------
 docker commands:
 
+docker init
+
 # -t stands for give your container a name/tag
 # . is the path to the Dockerfile
 docker build -t sample_name .
