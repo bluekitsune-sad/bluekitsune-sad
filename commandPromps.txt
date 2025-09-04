@@ -59,6 +59,10 @@ git remote add origin https://github.com/bluekitsune-sad/YouTubeCloNe.git
 git branch -M main
 git push -u origin main
 	-------
+
+# If you are on my-feature-branch locally but want to push its content to a remote branch named new-remote-feature, you would use:
+	git push origin my-feature-branch:new-remote-feature
+	-------
 //UNSET
 git config --global --unset user.name
 git config --global --unset  user.email
