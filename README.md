@@ -33,8 +33,6 @@ Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243)
 
 <h2> <img src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/programming.gif" width=15% /> Skills</h2> 
-<details>
-  <summary>see Skills</summary>
   <p align="left">
     <h4>Core</h4>
     <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="36" height="36"></a>
@@ -83,8 +81,8 @@ Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" width="36" height="36" alt="Jetbrains" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="36" height="36" alt="Docker" /></a>
-                      </p>
-</details>
+</p>
+
                     
 <h2> 🤙🏻 Socials</h2> 
 <details>
