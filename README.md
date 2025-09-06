@@ -19,7 +19,7 @@ Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [comingsoon](http://comingsoon)
 *   ✉️  You can contact me at [get in touch](mailto:saadshaan619@gmail.com)
-*   🚀  I'm currently working on [mySelf](https://github.com/bluekitsune-sad/Meme-Generator)
+*   🚀  I'm currently working on [mySelf](https://github.com/bluekitsune-sad/mentalHealthAnalyzer)
 *   🧠  I'm learning how to live
 *   🤝  I'm open to collaborating on web applicaion based on react and android applications
 *   ⚡  @-@
