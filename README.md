@@ -35,18 +35,15 @@ Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity
 <h2> <img src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/programming.gif" width=15% /> Skills</h2> 
   <p align="left">
     <h4>Core</h4>
-    <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="36" height="36"></a>
-    <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="36" height="36"></a>
     <a href="https://www.java.com/en/"><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="36" height="36"></a>
+    <a href="https://www.Javascript.com/"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Java" width="36" height="36"></a>
     <a href="https://kotlinlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="36" height="36"></a>
     <a href="https://www.python.org/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="36" height="36"></a>
     <a href="https://www.lua.org/"><img src="https://cdn.worldvectorlogo.com/logos/lua-5.svg" alt="lua" width="36" height="36"></a>
     <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="36" height="36"></a>
-    <a href="https://threejs.org/"><img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="Three.js" width="36" height="36"></a>
     <h4>FrontEnd</h4>
-    <a href="https://html.spec.whatwg.org/multipage/introduction.html#is-this-html5?"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="36" height="36"></a>
     <a href="https://react.dev/"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="36" height="36"></a>
-    <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="36" height="36"></a>
+    <a href="https://nextjs.org/"><img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/nextjs-icon-dark-background.png?itok=0YHs2vTR" alt="Next.js" width="36" height="36" ></a>
     <a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Css" width="36" height="36"></a>
     <a href="https://sass-lang.com/"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SASS" width="36" height="36"></a>
     <a href="https://www.w3.org/"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="SCSS" width="36" height="36"></a>
