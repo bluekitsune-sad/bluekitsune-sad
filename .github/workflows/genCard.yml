@@ -25,7 +25,7 @@ jobs:
       - name: Generate SVG
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python ./profileCardCreation/generate_card.py
+        run: python profileCardCreation/generate_card.py
 
       - name: Commit and push changes
         run: |
