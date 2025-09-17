@@ -27,6 +27,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python profileCardCreation/generate_card.py
 
+      - name: Check for generated file
+        run: ls -l profileCardCreation/
+
       - name: Commit and push changes
         working-directory: profileCardCreation
         run: |
