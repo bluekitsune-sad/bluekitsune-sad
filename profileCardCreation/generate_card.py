@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+import sys  # Import the sys module to control the exit status
 
 def get_github_stats(username, token):
     """Fetches GitHub user data using the GitHub API."""
@@ -63,8 +64,9 @@ def main():
     token = os.getenv("GH_TOKEN")
     
     if not token:
-        print("GH_TOKEN environment variable not set.")
-        return
+        # Exit with a non-zero code to fail the workflow
+        print("GH_TOKEN environment variable not set.", file=sys.stderr)
+        sys.exit(1)
         
     try:
         data = get_github_stats(username, token)
@@ -76,7 +78,9 @@ def main():
         print("Successfully generated github_stats_card.svg")
         
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching GitHub data: {e}")
+        # Exit with a non-zero code to fail the workflow and log the error
+        print(f"Error fetching GitHub data: {e}", file=sys.stderr)
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
