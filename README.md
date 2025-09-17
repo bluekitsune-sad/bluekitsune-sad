@@ -95,7 +95,9 @@ Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity
 ![Saad Yousuf's GitHub Stats](profileCardCreation/github_stats_card.svg) 
 -->
 
+<!--
 ![Saad Yousuf's GitHub Stats](https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/profileCardCreation/github_stats_card.svg) 
+-->
 
 <!--
 <a href="http://www.github.com/bluekitsune-sad"><img src="https://github-readme-stats.vercel.app/api?username=bluekitsune-sad&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=f97316&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bluekitsune-sad's GitHub stats" /></a>
