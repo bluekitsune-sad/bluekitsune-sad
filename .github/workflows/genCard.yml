@@ -1,0 +1,36 @@
+name: Generate GitHub Stats Card
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight UTC
+  workflow_dispatch: # allows manual triggering
+
+jobs:
+  generate_card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate SVG
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python generate_card.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "saadshaan619@gmail.com"
+          git config --local user.name "bluekitsune-sad"
+          git add github_stats_card.svg
+          git commit -m 'Update GitHub stats card [skip ci]' || echo 'No changes to commit'
+          git push
