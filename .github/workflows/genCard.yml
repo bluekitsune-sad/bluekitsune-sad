@@ -23,12 +23,10 @@ jobs:
           pip install requests
 
       - name: Generate SVG
+        working-directory: profileCardCreation
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python profileCardCreation/generate_card.py
-
-      - name: Check for generated file
-        run: ls -l profileCardCreation/
+        run: python generate_card.py
 
       - name: Commit and push changes
         working-directory: profileCardCreation
@@ -38,4 +36,3 @@ jobs:
           git add github_stats_card.svg
           git commit -m 'Update GitHub stats card [skip ci]' || echo 'No changes to commit'
           git push
-
