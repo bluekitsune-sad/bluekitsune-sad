@@ -1,32 +1,39 @@
 
     <svg width="400" height="180" viewBox="0 0 400 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect x="0.5" y="0.5" rx="10" width="399" height="179" fill="#1f2937" stroke="#e5e7eb" stroke-opacity="0.2"/>
-      <g transform="translate(25, 25)">
-        <text x="0" y="0" font-family="sans-serif" font-size="20" font-weight="bold" fill="#60a5fa">
-          Saad Yousuf's GitHub Stats
-        </text>
-        
+      <style>
+        .card-bg { fill: #1f2937; stroke: #e5e7eb; stroke-opacity: 0.2; }
+        .title { font-family: sans-serif; font-size: 20px; font-weight: bold; fill: #60a5fa; }
+        .stats-group { transform: translate(25px, 25px); }
+        .stats-line { font-family: sans-serif; font-size: 16px; fill: #e5e7eb; }
+        .icon { fill: #9ca3af; }
+        .label { font-weight: normal; }
+        .value { font-weight: bold; fill: #e5e7eb; }
+      </style>
+      <rect x="0.5" y="0.5" rx="10" width="399" height="179" class="card-bg"/>
+      <g class="stats-group">
+        <text x="0" y="0" class="title">Saad Yousuf's GitHub Stats</text>
         <g transform="translate(0, 40)">
-          <!-- Followers -->
-          <text x="0" y="0" font-family="sans-serif" font-size="16" fill="#e5e7eb">
-            <tspan x="0" y="0" fill="#9ca3af">⭐</tspan>
-            <tspan x="25" y="0">Followers:</tspan>
-            <tspan x="140" y="0" font-weight="bold">11</tspan>
-          </text>
           
-          <!-- Public Repos -->
-          <text x="0" y="25" font-family="sans-serif" font-size="16" fill="#e5e7eb">
-            <tspan x="0" y="0" fill="#9ca3af">📁</tspan>
-            <tspan x="25" y="0">Public Repos:</tspan>
-            <tspan x="140" y="0" font-weight="bold">50</tspan>
+          <text x="0" y="0" class="stats-line">
+            <tspan class="icon">⭐</tspan>
+            <tspan class="label">Followers:</tspan>
+            <tspan class="value">11</tspan>
           </text>
-          
-          <!-- Following -->
-          <text x="0" y="50" font-family="sans-serif" font-size="16" fill="#e5e7eb">
-            <tspan x="0" y="0" fill="#9ca3af">👥</tspan>
-            <tspan x="25" y="0">Following:</tspan>
-            <tspan x="140" y="0" font-weight="bold">33</tspan>
+        
+
+          <text x="0" y="25" class="stats-line">
+            <tspan class="icon">📁</tspan>
+            <tspan class="label">Public Repos:</tspan>
+            <tspan class="value">50</tspan>
           </text>
+        
+
+          <text x="0" y="50" class="stats-line">
+            <tspan class="icon">👥</tspan>
+            <tspan class="label">Following:</tspan>
+            <tspan class="value">33</tspan>
+          </text>
+        
         </g>
       </g>
     </svg>
