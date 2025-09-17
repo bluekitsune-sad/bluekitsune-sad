@@ -21,37 +21,48 @@ def create_svg(data):
     title_color = "#60a5fa"
     icon_color = "#9ca3af"
     border_radius = "10"
+
+    # Text content and formatting
+    title = "Saad Yousuf's GitHub Stats"
+    stats = [
+        ("⭐", "Followers", data['followers']),
+        ("📁", "Public Repos", data['public_repos']),
+        ("👥", "Following", data['following'])
+    ]
     
+    # Dynamically generate the stats text elements
+    stats_svg_elements = []
+    y_position = 0
+    for icon, label, value in stats:
+        # Use relative positioning and tspans for better control
+        stats_svg_elements.append(f"""
+          <text x="0" y="{y_position}" class="stats-line">
+            <tspan class="icon">{icon}</tspan>
+            <tspan class="label">{label}:</tspan>
+            <tspan class="value">{value}</tspan>
+          </text>
+        """)
+        y_position += 25 # Increase vertical spacing for next line
+
+    stats_svg_content = "\n".join(stats_svg_elements)
+
     # Basic SVG structure
     svg_template = f"""
     <svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect x="0.5" y="0.5" rx="{border_radius}" width="{width-1}" height="{height-1}" fill="{bg_color}" stroke="#e5e7eb" stroke-opacity="0.2"/>
-      <g transform="translate(25, 25)">
-        <text x="0" y="0" font-family="sans-serif" font-size="20" font-weight="bold" fill="{title_color}">
-          Saad Yousuf's GitHub Stats
-        </text>
-        
+      <style>
+        .card-bg {{ fill: {bg_color}; stroke: #e5e7eb; stroke-opacity: 0.2; }}
+        .title {{ font-family: sans-serif; font-size: 20px; font-weight: bold; fill: {title_color}; }}
+        .stats-group {{ transform: translate(25px, 25px); }}
+        .stats-line {{ font-family: sans-serif; font-size: 16px; fill: {text_color}; }}
+        .icon {{ fill: {icon_color}; }}
+        .label {{ font-weight: normal; }}
+        .value {{ font-weight: bold; fill: {text_color}; }}
+      </style>
+      <rect x="0.5" y="0.5" rx="{border_radius}" width="{width-1}" height="{height-1}" class="card-bg"/>
+      <g class="stats-group">
+        <text x="0" y="0" class="title">{title}</text>
         <g transform="translate(0, 40)">
-          <!-- Followers -->
-          <text x="0" y="0" font-family="sans-serif" font-size="16" fill="{text_color}">
-            <tspan x="0" y="0" fill="{icon_color}">⭐</tspan>
-            <tspan x="25" y="0">Followers:</tspan>
-            <tspan x="140" y="0" font-weight="bold">{data['followers']}</tspan>
-          </text>
-          
-          <!-- Public Repos -->
-          <text x="0" y="25" font-family="sans-serif" font-size="16" fill="{text_color}">
-            <tspan x="0" y="0" fill="{icon_color}">📁</tspan>
-            <tspan x="25" y="0">Public Repos:</tspan>
-            <tspan x="140" y="0" font-weight="bold">{data['public_repos']}</tspan>
-          </text>
-          
-          <!-- Following -->
-          <text x="0" y="50" font-family="sans-serif" font-size="16" fill="{text_color}">
-            <tspan x="0" y="0" fill="{icon_color}">👥</tspan>
-            <tspan x="25" y="0">Following:</tspan>
-            <tspan x="140" y="0" font-weight="bold">{data['following']}</tspan>
-          </text>
+          {stats_svg_content}
         </g>
       </g>
     </svg>
