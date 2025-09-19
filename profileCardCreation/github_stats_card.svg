@@ -24,14 +24,14 @@
           <text x="0" y="25" class="stats-line">
             <tspan class="icon">📁</tspan>
             <tspan class="label">Public Repos:</tspan>
-            <tspan class="value">50</tspan>
+            <tspan class="value">51</tspan>
           </text>
         
 
           <text x="0" y="50" class="stats-line">
             <tspan class="icon">👥</tspan>
             <tspan class="label">Following:</tspan>
-            <tspan class="value">33</tspan>
+            <tspan class="value">34</tspan>
           </text>
         
         </g>
