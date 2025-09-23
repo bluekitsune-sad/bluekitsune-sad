@@ -111,7 +111,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=bluekitsune-sad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>😅 Joke of the day</h2>
+<!-- <h2>😅 Joke of the day</h2>
 <details>
     <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
@@ -122,7 +122,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 <details>
   <summary>see Quote</summary>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote not for you"/>
-</details>
+</details> -->
 
 <h2> 🐍 Snakesss:</h2> 
 <details>
