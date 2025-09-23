@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: stats-card   # checkout the stats-card branch instead of main
+          fetch-depth: 0    # needed so we can push without errors
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,4 +38,4 @@ jobs:
           git config --local user.name "bluekitsune-sad"
           git add github_stats_card.svg
           git commit -m 'Update GitHub stats card [skip ci]' || echo 'No changes to commit'
-          git push
+          git push origin HEAD:stats-card
