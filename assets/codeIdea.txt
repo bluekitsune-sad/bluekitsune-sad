@@ -1,0 +1,169 @@
+[information for class preparation](https://www.youtube.com/watch?v=3-MSlNVqzYY)
+
+autenticatino app with (email,password,fingerprint,secretQuestion,emailToken,pin,typing speed test,geolocatino,play snake with a seacrit room hidden)
+
+desktop pet (https://medium.com/analytics-vidhya/create-your-own-desktop-pet-with-python-5b369be18868)
+
+github documentation generator
+
+create a chrome extention
+
+Piñata Go Boom (this is the game name)
+
+code a youtube mp3 to text then summarize using ai
+
+food recommendation based on the ingredients you have imputed. 
+
+fluid simulator
+
+hotel management System
+
+make a portfolio cargame with lowres(pico8)
+
+make a game in brainFuck langauage 
+
+makea a fighting game 
+
+makea a badminton game 
+
+make a ai to play tetris
+
+make a ai to play chess
+
+make a mobile app that will sort all the images in the phone in seperate folder and provides search options.
+
+make a snake game using the system32 files that will delete when reach the apple
+
+make trello clone with images and video support and ai
+
+suing FFmpeg make a image and video editor
+
+play snake with your voice
+
+youtube bot that posts a new vid for every sub (against tos so cant do it sadly)
+
+music selfbot for discord
+
+website that displays your search history
+
+discord bot that can act as a command prompt
+
+improved openai selfbot
+
+discord selfbot that mass reacts a user's message with emojis
+
+stable diffusion model that turns prompt/image to anime
+
+discord selfbot that controls multiple tokens by making them send any message that i want (literally just a fucking massdm bot 💀)
+
+siri selfbot for discord
+
+ascii art face filter
+
+image to ascii website using Flask
+
+desktop goose clone using python
+
+phone number to ip gui using tkinter (very stupid and dumb and probably impossible)
+
+an emoji based language using only python
+
+a discord bot that forces you to use brainfuck to call commands
+
+a discord bot that responds using brainfuck
+
+a python script that takes image paths and outputs the image using python turtle
+
+a version of command prompt meant for hackers
+
+snake but if u die then system32 gets deleted (virtual machine obviously)
+
+grapple hook game using pygame
+
+play roblox in roblox using python (cuz im too lazy to learn lua)
+
+control mouse with hand gestures (kinda like telekinesis)
+
+draw on screen using hand tracking
+
+python program that spaces out text as you write ex. t e s t
+
+roblox bot that moves based on where your hand is
+
+a python website that lets you generate new and random rickroll links so that people cant memorize them
+
+a website that lets you play snake but if u die ur browser crashes >:)
+
+play snake with hand gestures
+
+control pc with hand gestures
+
+ascii snake that follows your mouse
+
+a discord chatbot that is powered by a uncensored version of gpt
+
+make manim animations with a discord.py bot
+
+Verminal (a terminal controlled with your voice)
+
+discord always win giveaway selfbot (probably impossible LOL)
+
+a game that generates levels based off your search history (probably wont try to make for a longggggggggggg time)
+
+use github as a game engine (W.I.P kinda)
+
+a python script that lets ppl control my roblox character using pyautogui or something idfk
+
+my own version of discord (very hard to do ik)
+
+a simple app that lets you use all of your social media apps in one app (very dumb ik)
+
+a discord selfbot that can search the dark web >:)
+
+a python program that can play a video in File Explorer
+
+a python script that turns my screen into a touchscreen (since my computer doesnt support touch screen)
+
+python script that takes in input and puts on a song based off of that input on my tv
+
+make a website or app that will have images of your cloths and will provide you with combination to wear
+
+AI-Powered Meme Generator
+
+Virtual Pet that Lives in Your Taskbar
+
+Interactive Voice-Controlled Code Editor
+
+Simulated Time Travel Website
+
+Python-Based Home Automation System
+
+Augmented Reality Web App
+
+Discord Bot That Creates AI-Generated Stories
+
+Live-Action Adventure Game (AR or VR)
+
+AI That Turns Your Dream Descriptions into Art
+
+Time-Lapse of Your Day Using Your Webcam
+
+Personalized AI Therapist Bot
+
+Voice-Controlled Smart Mirror
+
+Virtual Reality Escape Room Game
+
+Automated TikTok Video Generator
+
+AI Art Critic
+
+Reverse Image Search for Art Style
+
+Interactive AI Comic Book
+
+Real-Time Mood-Tracking Playlist Generator
+
+AI-Powered Book Summarizer
+
+Augmented Reality (AR) Furniture Preview
