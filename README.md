@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | Reactjs, Nodejs, Expressjs, Nextjs Kotlin, Java, Python, TypeScript, ML & AI. ᵕ̈
 
 *   🌍  I'm based in Pakistan
-*   🖥️  See my portfolio at [comingsoon](http://comingsoon)
+*   🖥️  See my portfolio at [comingsoon](https://github.com/bluekitsune-sad/portfolio-2025)
 *   ✉️  You can contact me at [get in touch](mailto:saadshaan619@gmail.com)
 *   🚀  I'm currently working on [mySelf](https://github.com/bluekitsune-sad/mentalHealthAnalyzer)
 *   🧠  I'm learning how to live
