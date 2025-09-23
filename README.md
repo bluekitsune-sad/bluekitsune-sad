@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Syed+Saad+Yousuf+Raza;I+am+a+frontend+and+backend+developer;I+am+a+web+and+android+developer;I+am+from+Pakistan)](https://git.io/typing-svg)
 -----
 
-Versatile Developer in | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | Reactjs, Nodejs, Expressjs, Nextjs Kotlin, Java, Python, TypeScript, ML & AI. ᵕ̈
+Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | Reactjs, Nextjs, Node express, pygame, Kotlin, Java, Python, ML & AI | Cloud (AWS, Azure and Linode). ᵕ̈
 
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [this link](https://github.com/bluekitsune-sad/portfolio-2025)
