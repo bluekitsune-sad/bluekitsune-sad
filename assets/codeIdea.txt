@@ -167,3 +167,26 @@ Real-Time Mood-Tracking Playlist Generator
 AI-Powered Book Summarizer
 
 Augmented Reality (AR) Furniture Preview
+
+https://www.youtube.com/watch?v=bOCHTHkBoAs
+  boolean Algebra
+  numerical system
+  float point
+  logerithum
+  set theory
+  combinatorics
+  graphe theory
+  complexity theory
+  statistics
+  regresstion
+  linear algebra
+
+
+
+
+
+
+
+
+
+
