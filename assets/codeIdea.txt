@@ -1,3 +1,9 @@
+https://matthew.rayfield.world/articles/animating-urls-with-javascript-and-emojis/
+https://github.com/epidemian/snake
+asherfalcon.com
+https://geekupdates.notion.site/Unexpected-Game-Place-275735bd8a9d803bbaa9ee54c069351b
+https://github.com/arnaudsm/emoji-url-game
+
 [information for class preparation](https://www.youtube.com/watch?v=3-MSlNVqzYY)
 
 autenticatino app with (email,password,fingerprint,secretQuestion,emailToken,pin,typing speed test,geolocatino,play snake with a seacrit room hidden)
