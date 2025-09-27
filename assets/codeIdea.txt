@@ -1,3 +1,5 @@
+sleep sort algo
+
 https://matthew.rayfield.world/articles/animating-urls-with-javascript-and-emojis/
 https://github.com/epidemian/snake
 asherfalcon.com
