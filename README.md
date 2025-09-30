@@ -16,9 +16,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | Reactjs, Nextjs, Node express, pygame, Kotlin, Java, Python, ML & AI | Cloud (AWS, Azure and Linode). ᵕ̈
 
-*   🌍  I'm based in Pakistan
+*   🌍  I'm from Pakistan
 *   🖥️  See my portfolio at [this link](https://github.com/bluekitsune-sad/portfolio-2025)
-*   ✉️  You can contact me at [get in touch](mailto:saadshaan619@gmail.com)
+*   ✉️  You can contact me at [get in touch](mailto:saadyousu64@gmail.com)
 *   🚀  I'm currently working on [mySelf](https://github.com/bluekitsune-sad/mentalHealthAnalyzer)
 *   🧠  I'm learning how to live
 *   🤝  I'm open to collaborating on web applicaion based on react and android applications
@@ -38,42 +38,14 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 
 - **Languages**: JavaScript, Python, Kotlin, Java, Lua
 - **Frontend**: React.js, Next.js
-- **Frameworks & Styling**: SASS, Pygame-CE, Kaplay.js, Redux, Bootstrap, Material UI, ReactNativeJS
+- **Frameworks & Styling**: SASS, Pygame-CE, Kaplay.js, Redux, Bootstrap, Material UI, ReactNativeJS, Anaconda, Datascience libraries 
 - **Backend & Databases**: Flask, NestJS, Express.js, MongoDB, SQLite, MySQL, Firebase, FastAPI
-
-- **
-Backend & Databases
-- **: 
-
-### Software
-- **Photoshop**
-- **After Effects**
-- **Android Studio**
-- **Microsoft Office**
-- **Unity**
-- **Neovim**
-
-- **
-Backend & Databases
-- **: 
-
-### Operating Systems
-- **Ubuntu**
-- **Kali Linux**
-- **Arch Linux**
-
-- **
-Backend & Databases
-- **: 
-
-### Cloud Platforms
-- **Google Cloud**
-- **Microsoft Azure**
-- **AWS**
-- **Docker**
+- **Software** Photoshop, After Effects, Android Studio, Microsoft Office, Unity, Neovim
+- **Operating Systems**: Ubuntu, Kali Linux, Arch Linux
+- **Cloud Platforms**: Google Cloud, Microsoft Azure, AWS, Docker, Microsoft Power Automate, N8N
 
 
-<h2> <img src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/programming.gif" width=15% /> Skills</h2> 
+<!-- <h2> <img src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/programming.gif" width=15% /> Skills</h2> 
   <p align="left">
     <h4>Core</h4>
     <a href="https://www.Javascript.com/"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript" width="36" height="36"></a>
@@ -115,20 +87,9 @@ Backend & Databases
     <h4>Cloud</h4>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+</p> -->
 
-                    
-<h2> 🤙🏻 Socials</h2> 
-<details>
-  <summary>Contact Me</summary>                
-  <p align="left"> 
-  <a href="https://www.github.com/bluekitsune-sad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-  <!--   <a href="https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="36" height="36""></a>
-  </a> -->
-  <a href="https://www.x.com/@sad_yosuf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> 
-  </a>
-  </p>
-</details>
+                  
 
 <b>My GitHub Stats</b>
 
