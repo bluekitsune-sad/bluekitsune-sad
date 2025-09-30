@@ -16,11 +16,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | Reactjs, Nextjs, Node express, pygame, Kotlin, Java, Python, ML & AI | Cloud (AWS, Azure and Linode). ᵕ̈
 
-*   **I'm from** Pakistan
-*   Visit my portfolio at [this link](https://github.com/bluekitsune-sad/portfolio-2025)
-*   You can contact me at [get in touch](mailto:saadyousu64@gmail.com)
+*   I'm from **Pakistan**
+*   Visit my **portfolio** at [this link](https://github.com/bluekitsune-sad/portfolio-2025)
+*   You can contact me at **[get in touch](mailto:saadyousu64@gmail.com)**
 *   I'm open to collaborating on web, mobile or software based applications
-*   @-@
+*   **@-@**
 *   [battle in css](https://cssbattle.dev/)
 
 
