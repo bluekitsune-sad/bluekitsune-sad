@@ -68,7 +68,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
   </picture>
   
 <!-- </details> -->
-/media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
+<!-- /media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif -->
 <!--🐱CAT-->
 <div align="center" ><img alt="Meow~" width="200px" height="200px" src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/catCode.gif">
 ![GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)</div>
