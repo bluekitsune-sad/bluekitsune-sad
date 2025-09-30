@@ -36,33 +36,14 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 
 ## Skills
 
-### Languages
-- **JavaScript**
-- **Python**
-- **Kotlin**
-- **Java**
-- **Lua**
+- **Languages**: JavaScript, Python, Kotlin, Java, Lua
+- **Frontend**: React.js, Next.js
+- **Frameworks & Styling**: SASS, Pygame-CE, Kaplay.js, Redux, Bootstrap, Material UI, ReactNativeJS
+- **Backend & Databases**: Flask, NestJS, Express.js, MongoDB, SQLite, MySQL, Firebase, FastAPI
 
-### Frontend
-- **React.js**
-- **Next.js**
-
-### Frameworks & Styling
-- **SASS**
-- **Pygame-CE**
-- **Kplay.js**
-- **Redux**
-- **Bootstrap**
-- **Material UI**
-
-### Backend & Databases
-- **Flask**
-- **NestJS**
-- **Express.js**
-- **MongoDB**
-- **SQLite**
-- **MySQL**
-- **Firebase**
+- **
+Backend & Databases
+- **: 
 
 ### Software
 - **Photoshop**
@@ -72,10 +53,18 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 - **Unity**
 - **Neovim**
 
+- **
+Backend & Databases
+- **: 
+
 ### Operating Systems
 - **Ubuntu**
 - **Kali Linux**
 - **Arch Linux**
+
+- **
+Backend & Databases
+- **: 
 
 ### Cloud Platforms
 - **Google Cloud**
