@@ -16,13 +16,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | Reactjs, Nextjs, Node express, pygame, Kotlin, Java, Python, ML & AI | Cloud (AWS, Azure and Linode). ᵕ̈
 
-*   🌍  I'm from Pakistan
-*   🖥️  See my portfolio at [this link](https://github.com/bluekitsune-sad/portfolio-2025)
-*   ✉️  You can contact me at [get in touch](mailto:saadyousu64@gmail.com)
-*   🚀  I'm currently working on [mySelf](https://github.com/bluekitsune-sad/mentalHealthAnalyzer)
-*   🧠  I'm learning how to live
-*   🤝  I'm open to collaborating on web applicaion based on react and android applications
-*   ⚡  @-@
+*   **I'm from** Pakistan
+*   Visit my portfolio at [this link](https://github.com/bluekitsune-sad/portfolio-2025)
+*   You can contact me at [get in touch](mailto:saadyousu64@gmail.com)
+*   I'm open to collaborating on web, mobile or software based applications
+*   @-@
 *   [battle in css](https://cssbattle.dev/)
 
 
@@ -68,7 +66,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
   </picture>
   
 <!-- </details> -->
-<!-- /media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif -->
+
 <!--🐱CAT-->
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
@@ -80,4 +78,3 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 
 
 <!--<p align="right"><a href="#tap"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=10EAF7&style=flat&logo" alt="back to top" /></a></p>-->
-<p align="right"><a href="#tap"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=09092a&style=flat&logo" alt="back to top" /></a></p>
