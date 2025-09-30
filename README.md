@@ -36,7 +36,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 
 - **Languages**: JavaScript, Python, Kotlin, Java, Lua
 - **Frontend**: React.js, Next.js
-- **Frameworks & Styling**: SASS, Pygame-CE, Kaplay.js, Redux, Bootstrap, Material UI, ReactNativeJS, Anaconda, Datascience libraries, Cyber related libraries () 
+- **Frameworks & Styling**: SASS, Pygame-CE, Kaplay.js, Redux, Bootstrap, Material UI, ReactNativeJS, Anaconda, Datascience libraries, Cyber related libraries and software (Burp Suite, Hashcat, John the Ripper, OWASP, Scapy, Pwntools, etc) 
 - **Backend & Databases**: Flask, NestJS, Express.js, MongoDB, SQLite, MySQL, Firebase, FastAPI
 - **Software** Photoshop, After Effects, Android Studio, Microsoft Office, Unity, Neovim
 - **Operating Systems**: Ubuntu, Kali Linux, Arch Linux
