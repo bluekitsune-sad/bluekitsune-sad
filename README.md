@@ -44,9 +44,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 - **Operating Systems**: Ubuntu, Kali Linux, Arch Linux
 - **Cloud Platforms**: Google Cloud, Microsoft Azure, AWS, Docker, Microsoft Power Automate, N8N
 
-<!--
-![Saad Yousuf's GitHub Stats](https://github.com/bluekitsune-sad/bluekitsune-sad/blob/stats-card/profileCardCreation/github_stats_card.svg) 
--->
+<!--![Saad Yousuf's GitHub Stats](https://github.com/bluekitsune-sad/bluekitsune-sad/blob/stats-card/profileCardCreation/github_stats_card.svg) -->
 
 
 <!-- <h2>😅 Joke of the day</h2>
@@ -63,8 +61,6 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 </details> -->
 
 <h2> 🐍 Snakesss:</h2> 
-<!-- <details>
-  <summary>see The commits being eaten</summary> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bluekitsune-sad/Commit-Snake/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bluekitsune-sad/Commit-Snake/output/github-contribution-grid-snake.svg">
@@ -72,8 +68,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
   </picture>
   
 <!-- </details> -->
-
-<!--/media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif-->
+/media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif
 <!--🐱CAT-->
 <div align="center" ><img alt="Meow~" width="200px" height="200px" src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/catCode.gif"></div>
 
