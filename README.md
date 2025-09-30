@@ -32,6 +32,49 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-saad-yousuf-raza-a83389243)
 
+</p> 
+<h2> <img src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/programming.gif" width=15% /> Skills</h2> 
+language:
+  Javascript 
+  python
+  kotlin
+  java
+  lua
+frontend:
+  reactjs
+  nextjs  
+framwork and styling:
+  sass
+  pygame-ce
+  kplayjs
+  redux
+  bootstrap 
+  material ui  
+backend and database:
+  flask
+  nestjs
+  expressjs
+  mongodb
+  sqlite
+  mysql
+  firebase
+software:
+  Photoshop
+  After Effects
+  Android Studio
+  Microsoft office
+  Unity
+  neoVim
+OperatingSystem:
+    Ubuntu 
+    Kali Linux
+    Arch Linux
+Cloud:
+    Google Cloud
+    Microsoft Azure
+    AWS
+    Docker
+
 <h2> <img src="https://github.com/bluekitsune-sad/bluekitsune-sad/blob/main/assets/programming.gif" width=15% /> Skills</h2> 
   <p align="left">
     <h4>Core</h4>
