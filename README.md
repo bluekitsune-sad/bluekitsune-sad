@@ -125,15 +125,15 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 </details> -->
 
 <h2> 🐍 Snakesss:</h2> 
-<details>
-  <summary>see The commits being eaten</summary>
+<!-- <details>
+  <summary>see The commits being eaten</summary> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bluekitsune-sad/Commit-Snake/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bluekitsune-sad/Commit-Snake/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bluekitsune-sad/Commit-Snake/output/github-contribution-grid-snake.svg">
   </picture>
   
-</details>
+<!-- </details> -->
 
 <!--/media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif-->
 <!--🐱CAT-->
