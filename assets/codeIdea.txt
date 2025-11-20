@@ -141,8 +141,6 @@ python script that takes in input and puts on a song based off of that input on 
 
 make a website or app that will have images of your cloths and will provide you with combination to wear
 
-AI-Powered Meme Generator
-
 Virtual Pet that Lives in Your Taskbar
 
 Interactive Voice-Controlled Code Editor
