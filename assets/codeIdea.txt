@@ -1,3 +1,5 @@
+ai making ai for project
+
 dungeon walker in terminal 
 
 pokewalker inspired mobile game
