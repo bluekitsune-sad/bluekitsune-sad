@@ -2,6 +2,8 @@ ai making ai for project
 
 dungeon walker in terminal 
 
+make a book complete summarizer by topic/stoey or name (notebook)
+
 pokewalker inspired mobile game
 
 sleep sort algo
