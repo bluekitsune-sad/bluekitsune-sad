@@ -6,6 +6,10 @@ make a book complete summarizer by topic/stoey or name (notebook)
 
 pokewalker inspired mobile game
 
+make a boilerplate
+
+
+
 sleep sort algo
 boyer moore search
 
