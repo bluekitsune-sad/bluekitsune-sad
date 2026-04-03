@@ -8,7 +8,7 @@ pokewalker inspired mobile game
 
 make a boilerplate
 
-
+a fps game with bunny hop and strafing and multiplayer 
 
 sleep sort algo
 boyer moore search
