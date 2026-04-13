@@ -2,6 +2,8 @@ ai making ai for project
 
 dungeon walker in terminal 
 
+make a character fighting game and add a attack combo that can be broken by shield btn and then continue with attact1 of the combo that is very quick 
+
 make a book complete summarizer by topic/stoey or name (notebook)
 
 pokewalker inspired mobile game
