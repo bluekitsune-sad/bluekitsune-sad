@@ -6,6 +6,8 @@ make a character fighting game and add a attack combo that can be broken by shie
 
 make a book complete summarizer by topic/stoey or name (notebook)
 
+make a n8n or something that will have homelab, automation, hosting, management, ai(clawbot type), everything
+
 pokewalker inspired mobile game
 
 make a boilerplate
