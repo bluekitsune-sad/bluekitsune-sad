@@ -4,6 +4,8 @@ dungeon walker in terminal
 
 make a character fighting game and add a attack combo that can be broken by shield btn and then continue with attact1 of the combo that is very quick 
 
+make a restriction app that will do a penalty on doing specific tasks like opening social media app will penality 100000$
+
 make a book complete summarizer by topic/stoey or name (notebook)
 
 make a n8n or something that will have homelab, automation, hosting, management, ai(clawbot type), everything
