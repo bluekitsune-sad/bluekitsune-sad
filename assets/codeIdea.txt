@@ -191,6 +191,8 @@ Real-Time Mood-Tracking Playlist Generator
 
 AI-Powered Book Summarizer
 
+making a ai model that will be trained to check for anomalies in the logs and report them to the manager/owner
+
 Augmented Reality (AR) Furniture Preview
 
 https://www.youtube.com/watch?v=bOCHTHkBoAs
