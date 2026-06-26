@@ -2,6 +2,8 @@ ai making ai for project
 
 dungeon walker in terminal 
 
+make a ai chat personality that will do specific task and can work as it is a person like a finance manager that has all the finance knowledge and can update and provide it.
+
 make a character fighting game and add a attack combo that can be broken by shield btn and then continue with attact1 of the combo that is very quick 
 
 make a restriction app that will do a penalty on doing specific tasks like opening social media app will penality 100000$
