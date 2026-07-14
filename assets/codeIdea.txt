@@ -1,5 +1,7 @@
 ai making ai for project
 
+Bhaichara that helps poeple book ride that will be going the same route for office and will offer less rate then other drive as this will not drop on the exact location just untill the drivers wants.
+
 dungeon walker in terminal 
 
 make a ai chat personality that will do specific task and can work as it is a person like a finance manager that has all the finance knowledge and can update and provide it.
