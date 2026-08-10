@@ -20,6 +20,8 @@ pokewalker inspired mobile game
 
 make a boilerplate
 
+make a topdown car simulator that will be using the actuall map as tracks
+
 a fps game with bunny hop and strafing and multiplayer 
 
 sleep sort algo
