@@ -4,6 +4,8 @@ Bhaichara that helps poeple book ride that will be going the same route for offi
 
 make like a notepad app and software and website that will sync through a qr code and the device or session sharing it is the owner and like everything will be synced and the user can see the notes on any device
 
+using something like fuildvoice to make a voice to typing and including translation and ai init
+
 dungeon walker in terminal 
 
 make a ai chat personality that will do specific task and can work as it is a person like a finance manager that has all the finance knowledge and can update and provide it.
