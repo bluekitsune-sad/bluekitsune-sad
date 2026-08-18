@@ -8,6 +8,8 @@ using something like fuildvoice to make a voice to typing and including translat
 
 dungeon walker in terminal 
 
+make a self servalance ai that will analyze your daily progress and recommend you optimization and also what can be created in a skill so that ai can perform better
+
 axle.ai (Semantic search with custom metadata and workflows,built on local AI engines that you choose and control.Trainable faces, scene understanding, transcription,logo and text recognition and more.)
 
 make a ai chat personality that will do specific task and can work as it is a person like a finance manager that has all the finance knowledge and can update and provide it.
