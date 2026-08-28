@@ -44,6 +44,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 
 </p> 
 
+<!--
 ## Skills
 
 - **Languages**: JavaScript, Python, Kotlin, Java, Lua
@@ -54,7 +55,8 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 - **Operating Systems**: Ubuntu, Kali Linux, Arch Linux, Cachy os
 - **Cloud Platforms**: Google Cloud, Microsoft Azure, AWS, Docker, Microsoft Power Automate, N8N, Linode
 
-<!--![Saad Yousuf's GitHub Stats](https://github.com/bluekitsune-sad/bluekitsune-sad/blob/stats-card/profileCardCreation/github_stats_card.svg) -->
+
+![Saad Yousuf's GitHub Stats](https://github.com/bluekitsune-sad/bluekitsune-sad/blob/stats-card/profileCardCreation/github_stats_card.svg) -->
 
 
 <!-- <h2>😅 Joke of the day</h2>
