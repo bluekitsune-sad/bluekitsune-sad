@@ -1,3 +1,15 @@
+<div align="justify">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bluekitsune-sad/githubFetch/blob/main/output.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bluekitsune-sad/githubFetch/blob/main/output.gif">
+    <img alt="KITSUNE OS" src="output.gif">
+</picture>
+
+<sub><i>Generated automatically for <b>Saad Yousuf</b> ([bluekitsune-sad](https://github.com/bluekitsune-sad)) on Sat Aug 29 12:58:49 AM PKT 2026</i></sub>
+</div>
+
+
+
 <div id="tap"> </div>
 <p>
   
