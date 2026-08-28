@@ -39,7 +39,7 @@ Versatile Developer | MERN Stack, Android, WordPress, Game Dev, Cybersecurity | 
 - **Frameworks & Styling**: SASS, Pygame-CE, Kaplay.js, Redux, Bootstrap, Material UI, ReactNativeJS, Anaconda, Datascience libraries, Cyber related libraries and software (Burp Suite, Hashcat, John the Ripper, OWASP, Scapy, Pwntools, etc) 
 - **Backend & Databases**: Flask, NestJS, Express.js, MongoDB, SQLite, MySQL, Firebase, FastAPI
 - **Software** Photoshop, After Effects, Android Studio, Microsoft Office, Unity, Neovim
-- **Operating Systems**: Ubuntu, Kali Linux, Arch Linux
+- **Operating Systems**: Ubuntu, Kali Linux, Arch Linux, Cachy os
 - **Cloud Platforms**: Google Cloud, Microsoft Azure, AWS, Docker, Microsoft Power Automate, N8N, Linode
 
 <!--![Saad Yousuf's GitHub Stats](https://github.com/bluekitsune-sad/bluekitsune-sad/blob/stats-card/profileCardCreation/github_stats_card.svg) -->
