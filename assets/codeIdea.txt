@@ -1,3 +1,5 @@
+
+
 ai making ai for project
 
 Bhaichara that helps poeple book ride that will be going the same route for office and will offer less rate then other drive as this will not drop on the exact location just untill the drivers wants..
@@ -52,6 +54,8 @@ github documentation generator
 create a chrome extention
 
 Piñata Go Boom (this is the game name)
+
+an ai hierarchy of employee along with a skill school system.
 
 code a youtube mp3 to text then summarize using ai
 
