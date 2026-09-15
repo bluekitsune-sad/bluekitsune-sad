@@ -1,4 +1,18 @@
 
+- AI coding assistant
+- AI resume analyzer
+- RAG chatbot
+- Cybersecurity dashboard
+- Docker security scanner
+- Rust API
+- Kubernetes
+- Computer vision
+- Voice assistant
+- AI agent
+- Browser automation
+- make a ai skill school and job system and use obsedian and git
+
+
 - ai making ai for project
 
 - Bhaichara that helps poeple book ride that will be going the same route for office and will offer less rate then other drive as this will not drop on the exact location just untill the drivers wants..
