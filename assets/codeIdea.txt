@@ -1,36 +1,35 @@
 
+- ai making ai for project
 
-ai making ai for project
+- Bhaichara that helps poeple book ride that will be going the same route for office and will offer less rate then other drive as this will not drop on the exact location just untill the drivers wants..
 
-Bhaichara that helps poeple book ride that will be going the same route for office and will offer less rate then other drive as this will not drop on the exact location just untill the drivers wants..
+- make like a notepad app and software and website that will sync through a qr code and the device or session sharing it is the owner and like everything will be synced and the user can see the notes on any device
 
-make like a notepad app and software and website that will sync through a qr code and the device or session sharing it is the owner and like everything will be synced and the user can see the notes on any device
+- make a program for the shortcut for the chrome profiles or shortcuts like a centralized one
 
-make a program for the shortcut for the chrome profiles or shortcuts like a centralized one
+- using something like fuildvoice to make a voice to typing and including translation and ai init
 
-using something like fuildvoice to make a voice to typing and including translation and ai init
+- dungeon walker in terminal 
 
-dungeon walker in terminal 
+- make a self servalance ai that will analyze your daily progress and recommend you optimization and also what can be created in a skill so that ai can perform better
 
-make a self servalance ai that will analyze your daily progress and recommend you optimization and also what can be created in a skill so that ai can perform better
+- axle.ai (Semantic search with custom metadata and workflows,built on local AI engines that you choose and control.Trainable faces, scene understanding, transcription,logo and text recognition and more.)
 
-axle.ai (Semantic search with custom metadata and workflows,built on local AI engines that you choose and control.Trainable faces, scene understanding, transcription,logo and text recognition and more.)
+- make a ai chat personality that will do specific task and can work as it is a person like a finance manager that has all the finance knowledge and can update and provide it.
 
-make a ai chat personality that will do specific task and can work as it is a person like a finance manager that has all the finance knowledge and can update and provide it.
+- make a character fighting game and add a attack combo that can be broken by shield btn and then continue with attact1 of the combo that is very quick 
 
-make a character fighting game and add a attack combo that can be broken by shield btn and then continue with attact1 of the combo that is very quick 
+- make a restriction app that will do a penalty on doing specific tasks like opening social media app will penality 100000$
 
-make a restriction app that will do a penalty on doing specific tasks like opening social media app will penality 100000$
+- make a book complete summarizer by topic/stoey or name (notebook)
 
-make a book complete summarizer by topic/stoey or name (notebook)
+- make a n8n or something that will have homelab, automation, hosting, management, ai(clawbot type), everything
 
-make a n8n or something that will have homelab, automation, hosting, management, ai(clawbot type), everything
+- pokewalker, and spiderman map inspired mobile game
 
-pokewalker inspired mobile game
+- make a boilerplates
 
-make a boilerplate
-
-make a topdown car simulator that will be using the actuall map as tracks
+- make a topdown car simulator that will be using the actuall map as tracks
 
 a fps game with bunny hop and strafing and multiplayer 
 
@@ -43,179 +42,167 @@ asherfalcon.com
 https://geekupdates.notion.site/Unexpected-Game-Place-275735bd8a9d803bbaa9ee54c069351b
 https://github.com/arnaudsm/emoji-url-game
 
-[information for class preparation](https://www.youtube.com/watch?v=3-MSlNVqzYY)
+- [information for class preparation](https://www.youtube.com/watch?v=3-MSlNVqzYY)
 
-autenticatino app with (email,password,fingerprint,secretQuestion,emailToken,pin,typing speed test,geolocatino,play snake with a seacrit room hidden)
+- autenticatino app with (email,password,fingerprint,secretQuestion,emailToken,pin,typing speed test,geolocatino,play snake with a seacrit room hidden)
 
-desktop pet (https://medium.com/analytics-vidhya/create-your-own-desktop-pet-with-python-5b369be18868)
+- desktop pet (https://medium.com/analytics-vidhya/create-your-own-desktop-pet-with-python-5b369be18868)
 
-github documentation generator
+- github documentation generator
 
-create a chrome extention
+- create a chrome extention
 
-Piñata Go Boom (this is the game name)
+- Piñata Go Boom (this is the game name)
 
-an ai hierarchy of employee along with a skill school system.
+- an ai hierarchy of employee along with a skill school system.
 
-code a youtube mp3 to text then summarize using ai
+- code a youtube mp3 to text then summarize using ai
 
-food recommendation based on the ingredients you have imputed. 
+- food recommendation based on the ingredients you have imputed. 
 
-fluid simulator
+- fluid simulator
 
-hotel management System
+- hotel management System
 
-make a portfolio cargame with lowres(pico8)
+- make a portfolio cargame with lowres(pico8)
 
-make a game in brainFuck langauage 
+- make a game in brainFuck langauage 
 
-makea a fighting game 
+- makea a fighting game 
 
-makea a badminton game 
+- makea a badminton game 
 
-make a ai to play tetris
+- make a ai to play tetris
 
-make a ai to play chess
+- make a ai to play chess
 
-make a mobile app that will sort all the images in the phone in seperate folder and provides search options.
+- make a mobile app that will sort all the images in the phone in seperate folder and provides search options.
 
-make a snake game using the system32 files that will delete when reach the apple
+- make a snake game using the system32 files that will delete when reach the apple
 
-make trello clone with images and video support and ai
+- make trello clone with images and video support and ai
 
-suing FFmpeg make a image and video editor
+- using FFmpeg make a image and video editor
 
-play snake with your voice
+- play snake with your voice
 
-youtube bot that posts a new vid for every sub (against tos so cant do it sadly)
+- music selfbot for discord
 
-music selfbot for discord
+- website that displays your search history
 
-website that displays your search history
+- discord bot that can act as a command prompt
 
-discord bot that can act as a command prompt
+- discord selfbot that mass reacts a user's message with emojis
 
-improved openai selfbot
+- stable diffusion model that turns prompt/image to anime
 
-discord selfbot that mass reacts a user's message with emojis
+- siri selfbot for discord
 
-stable diffusion model that turns prompt/image to anime
+- ascii art face filter
 
-discord selfbot that controls multiple tokens by making them send any message that i want (literally just a fucking massdm bot 💀)
+- image to ascii website using Flask
 
-siri selfbot for discord
+- desktop goose clone using python
 
-ascii art face filter
+- phone number to ip gui using tkinter (very stupid and dumb and probably impossible)
 
-image to ascii website using Flask
+- an emoji based language using only python
 
-desktop goose clone using python
+- a discord bot that forces you to use brainfuck to call commands
 
-phone number to ip gui using tkinter (very stupid and dumb and probably impossible)
+- a discord bot that responds using brainfuck
 
-an emoji based language using only python
+- a python script that takes image paths and outputs the image using python turtle
 
-a discord bot that forces you to use brainfuck to call commands
+- a version of command prompt meant for hackers
 
-a discord bot that responds using brainfuck
+- snake but if u die then system32 gets deleted (virtual machine obviously)
 
-a python script that takes image paths and outputs the image using python turtle
+- grapple hook game using pygame
 
-a version of command prompt meant for hackers
+- control mouse with hand gestures (kinda like telekinesis)
 
-snake but if u die then system32 gets deleted (virtual machine obviously)
+- draw on screen using hand tracking
 
-grapple hook game using pygame
+- python program that spaces out text as you write ex. t e s t
 
-play roblox in roblox using python (cuz im too lazy to learn lua)
+- a python website that lets you generate new and random rickroll links so that people cant memorize them
 
-control mouse with hand gestures (kinda like telekinesis)
+- a website that lets you play snake but if u die ur browser crashes >:)
 
-draw on screen using hand tracking
+- play snake with hand gestures
 
-python program that spaces out text as you write ex. t e s t
+- control pc with hand gestures
 
-roblox bot that moves based on where your hand is
+- ascii snake that follows your mouse
 
-a python website that lets you generate new and random rickroll links so that people cant memorize them
+- a discord chatbot that is powered by a uncensored version of gpt
 
-a website that lets you play snake but if u die ur browser crashes >:)
+- make manim animations with a discord.py bot
 
-play snake with hand gestures
+- Verminal (a terminal controlled with your voice)
 
-control pc with hand gestures
+- a game that generates levels based off your search history (probably wont try to make for a longggggggggggg time)
 
-ascii snake that follows your mouse
+- use github as a game engine (W.I.P kinda)
 
-a discord chatbot that is powered by a uncensored version of gpt
+- a python script that lets ppl control my roblox character using pyautogui or something idfk
 
-make manim animations with a discord.py bot
+- my own version of discord (very hard to do ik)
 
-Verminal (a terminal controlled with your voice)
+- a simple app that lets you use all of your social media apps in one app (very dumb ik)
 
-discord always win giveaway selfbot (probably impossible LOL)
+- a discord selfbot that can search the dark web >:)
 
-a game that generates levels based off your search history (probably wont try to make for a longggggggggggg time)
+- a python program that can play a video in File Explorer
 
-use github as a game engine (W.I.P kinda)
+- a python script that turns my screen into a touchscreen (since my computer doesnt support touch screen)
 
-a python script that lets ppl control my roblox character using pyautogui or something idfk
+- python script that takes in input and puts on a song based off of that input on my tv
 
-my own version of discord (very hard to do ik)
+- make a website or app that will have images of your cloths and will provide you with combination to wear
 
-a simple app that lets you use all of your social media apps in one app (very dumb ik)
+- Virtual Pet that Lives in Your Taskbar
 
-a discord selfbot that can search the dark web >:)
+- Interactive Voice-Controlled Code Editor
 
-a python program that can play a video in File Explorer
+- Simulated Time Travel Website
 
-a python script that turns my screen into a touchscreen (since my computer doesnt support touch screen)
+- Python-Based Home Automation System
 
-python script that takes in input and puts on a song based off of that input on my tv
+- Augmented Reality Web App
 
-make a website or app that will have images of your cloths and will provide you with combination to wear
+- Discord Bot That Creates AI-Generated Stories
 
-Virtual Pet that Lives in Your Taskbar
+- Live-Action Adventure Game (AR or VR)
 
-Interactive Voice-Controlled Code Editor
+- AI That Turns Your Dream Descriptions into Art
 
-Simulated Time Travel Website
+- Time-Lapse of Your Day Using Your Webcam
 
-Python-Based Home Automation System
+- Personalized AI Therapist Bot
 
-Augmented Reality Web App
+- Voice-Controlled Smart Mirror
 
-Discord Bot That Creates AI-Generated Stories
+- Virtual Reality Escape Room Game
 
-Live-Action Adventure Game (AR or VR)
+- Automated TikTok Video Generator
 
-AI That Turns Your Dream Descriptions into Art
+- AI Art Critic
 
-Time-Lapse of Your Day Using Your Webcam
+- Reverse Image Search for Art Style
 
-Personalized AI Therapist Bot
+- Interactive AI Comic Book
 
-Voice-Controlled Smart Mirror
+- Real-Time Mood-Tracking Playlist Generator
 
-Virtual Reality Escape Room Game
+- AI-Powered Book Summarizer
 
-Automated TikTok Video Generator
+- making a ai model that will be trained to check for anomalies in the logs and report them to the manager/owner
 
-AI Art Critic
+- Augmented Reality (AR) Furniture Preview
 
-Reverse Image Search for Art Style
-
-Interactive AI Comic Book
-
-Real-Time Mood-Tracking Playlist Generator
-
-AI-Powered Book Summarizer
-
-making a ai model that will be trained to check for anomalies in the logs and report them to the manager/owner
-
-Augmented Reality (AR) Furniture Preview
-
-https://www.youtube.com/watch?v=bOCHTHkBoAs
+- https://www.youtube.com/watch?v=bOCHTHkBoAs
   boolean Algebra
   numerical system
   float point
