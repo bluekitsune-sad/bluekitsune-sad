@@ -1,17 +1,27 @@
 
 - AI coding assistant
-- AI resume analyzer
-- RAG chatbot
-- Cybersecurity dashboard
-- Docker security scanner
-- Rust API
-- Kubernetes
-- Computer vision
-- Voice assistant
-- AI agent
-- Browser automation
-- make a ai skill school and job system and use obsedian and git
 
+- AI resume analyzer
+
+- RAG chatbot
+
+- Cybersecurity dashboard
+
+- Docker security scanner
+
+- Rust API
+
+- Kubernetes
+
+- Computer vision
+
+- Voice assistant
+
+- AI agent
+
+- Browser automation
+
+- make a ai skill school and job system and use obsedian and git
 
 - ai making ai for project
 
