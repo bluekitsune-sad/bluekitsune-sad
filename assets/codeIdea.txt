@@ -7,6 +7,8 @@
 
 - Cybersecurity dashboard
 
+- pokemon with offical stats and stuff but card using pixel art
+
 - Docker security scanner
 
 - Rust API
