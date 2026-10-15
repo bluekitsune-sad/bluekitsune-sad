@@ -1,3 +1,4 @@
+- make a glass object detection that will detect the pot holes and issue with the road this can be saved and then it will be nulling the incomming bright light but only the lights like if there a car coming the two lights will be null(havven though of the procees). then we will later on add more stuff like navigation and stuff.
 
 - AI coding assistant
 
